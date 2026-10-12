@@ -14,4 +14,4 @@
 
 ## JSON index file URL
 
-URL: `https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/index.json`
+URL: `https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/index.json`

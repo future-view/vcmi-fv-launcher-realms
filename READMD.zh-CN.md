@@ -14,4 +14,4 @@
 
 ## JSON索引文件URL
 
-网址：`https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/index.json`
+网址：`https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/index.json`

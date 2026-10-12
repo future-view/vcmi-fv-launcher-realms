@@ -1,5 +1,5 @@
 {
-  "urlBase": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/",
+  "urlBase": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/",
   "realms": {
     "vcmi-realm": {
       "version": "1.0.0",
@@ -13,8 +13,8 @@
       "requiresMods": [],
       "sha256": "86df3bfb0aec5d905ab236bb435378f3e4a72ec1a040b7bce2ee9859bab5994c",
       "size": 1417393,
-      "cover": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/realms/vcmi-realm/cover.webp",
-      "download": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/realms/vcmi-realm/vcmi-realm.vcmirealm",
+      "cover": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/vcmi-realm/cover.webp",
+      "download": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/vcmi-realm/vcmi-realm.vcmirealm",
       "i18n": {
         "english": {
           "name": "VCMI",
@@ -44,8 +44,8 @@
       "requiresMods": [],
       "sha256": "144a075774ff8e62d461ae675fe870a9bc35c98da32bc33ca405e4a5497f2692",
       "size": 9160174,
-      "cover": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/realms/the-fall-of-light/cover.webp",
-      "download": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/realms/the-fall-of-light/the-fall-of-light.vcmirealm",
+      "cover": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/the-fall-of-light/cover.webp",
+      "download": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/the-fall-of-light/the-fall-of-light.vcmirealm",
       "i18n": {
         "english": {
           "name": "The fall of light",
