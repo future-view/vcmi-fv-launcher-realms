@@ -1,0 +1,69 @@
+{
+  "urlBase": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/",
+  "realms": {
+    "vcmi-realm": {
+      "version": "1.0.0",
+      "author": "FutureView",
+      "defaultLang": "english",
+      "name": "VCMI",
+      "description": "It comprehensively enhances resolution (high-definition picture quality) and system compatibility (mobile version), and also supports rich MOD extensions (more customizable races).",
+      "tags": [
+        "IntroText"
+      ],
+      "requiresMods": [],
+      "sha256": "86df3bfb0aec5d905ab236bb435378f3e4a72ec1a040b7bce2ee9859bab5994c",
+      "size": 1417393,
+      "cover": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/realms/vcmi-realm/cover.webp",
+      "download": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/realms/vcmi-realm/vcmi-realm.vcmirealm",
+      "i18n": {
+        "english": {
+          "name": "VCMI",
+          "description": "It comprehensively enhances resolution (high-definition picture quality) and system compatibility (mobile version), and also supports rich MOD extensions (more customizable races).",
+          "tags": [
+            "IntroText"
+          ]
+        },
+        "chinese": {
+          "name": "VCMI",
+          "description": "全面提升分辨率(高清画质)与系统兼容性(手机版本)，更支持丰富MOD扩展(更多自定义种族)。",
+          "tags": [
+            "开场剧情"
+          ]
+        }
+      }
+    },
+    "the-fall-of-light": {
+      "version": "1.0.0",
+      "author": "FutureView",
+      "defaultLang": "english",
+      "name": "The fall of light",
+      "description": "Cemetery is never a slave, feel the terror of skeletons",
+      "tags": [
+        "IntroVideo"
+      ],
+      "requiresMods": [],
+      "sha256": "144a075774ff8e62d461ae675fe870a9bc35c98da32bc33ca405e4a5497f2692",
+      "size": 9160174,
+      "cover": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/realms/the-fall-of-light/cover.webp",
+      "download": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher/main/realms/the-fall-of-light/the-fall-of-light.vcmirealm",
+      "i18n": {
+        "english": {
+          "name": "The fall of light",
+          "description": "Cemetery is never a slave, feel the terror of skeletons",
+          "tags": [
+            "IntroVideo"
+          ]
+        },
+        "chinese": {
+          "name": "光明陨落",
+          "description": "墓园永不为奴，感受骷髅的恐怖吧。\n继续创造墓园的传奇，让光明彻底陨落。",
+          "tags": [
+            "开场视频"
+          ]
+        }
+      }
+    }
+  },
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-12"
+}
