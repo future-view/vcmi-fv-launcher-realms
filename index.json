@@ -88,9 +88,10 @@
           ]
         }
       },
-      "sha256": "ce60cfa38c7a70abeee163b117651a891e611d2e73168c47c68f3ec5904c34c8",
-      "size": 3547603,
-      "download": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/heroes-chronicles/heroes-chronicles.vcmirealm"
+      "sha256": "e73d521ad3f67a7f17a5b23a786faaae282012c86831e5fd1ae6f240cf4a0b2e",
+      "size": 3550352,
+      "download": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/heroes-chronicles/heroes-chronicles.vcmirealm",
+      "cover": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/heroes-chronicles/cover.webp"
     }
   },
   "schemaVersion": 1,
