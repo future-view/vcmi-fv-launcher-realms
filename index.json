@@ -11,7 +11,7 @@
         "IntroText"
       ],
       "requiresMods": [],
-      "sha256": "86df3bfb0aec5d905ab236bb435378f3e4a72ec1a040b7bce2ee9859bab5994c",
+      "sha256": "2c7c5739736c7a964a4262c99e2b35ef4786ae660ada079a10549c397a34093d",
       "size": 1417393,
       "cover": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/vcmi-realm/cover.webp",
       "download": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/vcmi-realm/vcmi-realm.vcmirealm",
@@ -42,8 +42,8 @@
         "IntroVideo"
       ],
       "requiresMods": [],
-      "sha256": "144a075774ff8e62d461ae675fe870a9bc35c98da32bc33ca405e4a5497f2692",
-      "size": 9160174,
+      "sha256": "72e6c5d584533386439443c74cef5967435a469e93f0ca90839e533d7ad56a9f",
+      "size": 9161103,
       "cover": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/the-fall-of-light/cover.webp",
       "download": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/the-fall-of-light/the-fall-of-light.vcmirealm",
       "i18n": {
@@ -62,8 +62,37 @@
           ]
         }
       }
+    },
+    "heroes-chronicles": {
+      "version": "1.0.0",
+      "author": "FutureView",
+      "defaultLang": "english",
+      "name": "Heroes Chronicles",
+      "description": "The chronicles of magic and sword in Erathia,  \nfollowing the heroes' footsteps, \nunveiling ancient secrets and legendary campaigns.",
+      "tags": [
+        "IntroText"
+      ],
+      "i18n": {
+        "chinese": {
+          "name": "英雄无敌历代记",
+          "description": "埃拉西亚魔法与剑的编年史，\n追随英雄足迹，揭开远古秘辛与传奇战役。",
+          "tags": [
+            "开场剧情"
+          ]
+        },
+        "english": {
+          "name": "Heroes Chronicles",
+          "description": "The chronicles of magic and sword in Erathia,  \nfollowing the heroes' footsteps, \nunveiling ancient secrets and legendary campaigns.",
+          "tags": [
+            "IntroText"
+          ]
+        }
+      },
+      "sha256": "ce60cfa38c7a70abeee163b117651a891e611d2e73168c47c68f3ec5904c34c8",
+      "size": 3547603,
+      "download": "https://raw.githubusercontent.com/future-view/vcmi-fv-launcher-realms/main/realms/heroes-chronicles/heroes-chronicles.vcmirealm"
     }
   },
   "schemaVersion": 1,
-  "updatedAt": "2026-10-12"
+  "updatedAt": "2026-10-22"
 }
